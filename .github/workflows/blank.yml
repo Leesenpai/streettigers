@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Street Tigers - Calistenia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Street Tigers - Calistenia</h1>
+        <p>Transforme seu corpo e mente com a prática da calistenia.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#sobre">Sobre a Calistenia</a></li>
+            <li><a href="#como-praticar">Como Praticar</a></li>
+            <li><a href="#beneficios">Benefícios</a></li>
+            <li><a href="#movimentos">Principais Movimentos</a></li>
+            <li><a href="#rotina-iniciante">Rotina para Iniciantes</a></li>
+            <li><a href="#alimentacao">Alimentação Saudável</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <section id="sobre">
+        <h2>O que é Calistenia</h2>
+        <p>A calistenia é uma forma de exercício físico que utiliza principalmente o peso corporal como resistência. Ela envolve uma variedade de movimentos e técnicas que visam desenvolver força, resistência, flexibilidade e coordenação. 
+
+Os praticantes de calistenia frequentemente realizam exercícios como flexões, barras fixas, agachamentos, pranchas, entre outros, sem a necessidade de equipamentos ou pesos externos. Em vez disso, a própria massa corporal é utilizada para criar resistência durante os movimentos.
+
+A calistenia é uma prática versátil que pode ser adaptada para diferentes níveis de habilidade e objetivos. Ela pode ser realizada em espaços abertos, parques, academias ou em casa, tornando-a acessível para uma ampla variedade de pessoas.
+
+Além dos benefícios físicos, a calistenia também promove a melhoria da consciência corporal, equilíbrio e controle motor. Por ser uma forma de exercício altamente funcional, ela é frequentemente associada a atividades cotidianas e movimentos naturais do corpo.
+
+A popularidade da calistenia tem crescido ao longo dos anos, e muitos praticantes a veem não apenas como um método de treino, mas como um estilo de vida que promove saúde, bem-estar e superação pessoal.</p>
+    </section>
+
+    <section id="como-praticar">
+        <h2>Como Praticar Calistenia</h2>
+        <p>Praticar calistenia envolve uma abordagem gradual e focada no desenvolvimento da força, flexibilidade e coordenação. Aqui estão passos básicos para começar:
+
+1. **Aprender os Fundamentos:**
+   - Comece com exercícios básicos como flexões, agachamentos, pranchas e alongamentos. Estes formam a base para movimentos mais avançados.
+
+2. **Estabelecer Metas Realistas:**
+   - Defina metas específicas, como realizar um certo número de flexões ou alcançar uma determinada posição de prancha. Isso ajuda a manter o foco e a motivação.
+
+3. **Treinar Regularmente:**
+   - Consistência é fundamental. Treine regularmente para progredir. Três a quatro vezes por semana é um bom começo.
+
+4. **Variedade de Movimentos:**
+   - Explore diferentes tipos de exercícios para trabalhar diferentes grupos musculares. Inclua flexões, barras, agachamentos, pranchas e alongamentos.
+
+5. **Adaptar para o Seu Nível:**
+   - Adapte os exercícios para o seu nível de habilidade. Por exemplo, se as flexões tradicionais são difíceis, comece com as flexões de joelhos.
+
+6. **Foco na Técnica:**
+   - A técnica adequada é crucial para evitar lesões e obter os melhores resultados. Inicialmente, concentre-se na forma correta.
+
+7. **Trabalhar na Progressão:**
+   - À medida que ganha força e confiança, avance para variações mais desafiadoras dos exercícios. Por exemplo, das flexões de joelhos para as flexões tradicionais.
+
+8. **Incluir Treino de Flexibilidade:**
+   - Alongamentos e exercícios de flexibilidade são essenciais para melhorar a amplitude de movimento e prevenir lesões.
+
+9. **Manter uma Dieta Balanceada:**
+   - Alimentação saudável é crucial para fornecer energia e nutrientes para o treino. Priorize proteínas, grãos integrais, vegetais e gorduras saudáveis.
+
+10. **Descanso e Recuperação:**
+    - Dê ao seu corpo tempo para se recuperar. O descanso adequado é crucial para o progresso e a prevenção de lesões.
+
+11. **Escute Seu Corpo:**
+    - Preste atenção aos sinais do seu corpo. Se sentir dor excessiva ou desconforto, pare e consulte um profissional de saúde.
+
+Lembre-se de que a progressão na calistenia é um processo gradual. Respeite os seus limites e celebre os pequenos avanços ao longo do caminho. Considerar a orientação de um treinador experiente ou profissional de saúde pode ser muito benéfico, especialmente ao começar.</p>
+    </section>
+
+    <section id="beneficios">
+        <h2>Benefícios da Calistenia</h2>
+        <p>A prática da calistenia oferece uma variedade de benefícios para o corpo e a mente. Aqui estão alguns dos principais:
+
+1. **Desenvolvimento de Força:** A calistenia utiliza o peso corporal como resistência, o que resulta em um fortalecimento significativo dos músculos.
+
+2. **Melhoria da Resistência Muscular:** Ao realizar repetições de exercícios, a resistência muscular é progressivamente aumentada, promovendo maior resistência.
+
+3. **Aprimoramento da Flexibilidade:** Muitos exercícios de calistenia envolvem movimentos que requerem flexibilidade, auxiliando no desenvolvimento da amplitude de movimento.
+
+4. **Aumento da Coordenação e Controle Corporal:** Os movimentos precisos e controlados exigidos pela calistenia ajudam a aprimorar a coordenação motora e o controle sobre o corpo.
+
+5. **Melhora na Composição Corporal:** A prática regular de calistenia pode levar a uma redução de gordura corporal e ao aumento da massa muscular magra, resultando em uma composição corporal mais saudável.
+
+6. **Acessibilidade e Versatilidade:** A calistenia pode ser praticada em qualquer lugar, sem a necessidade de equipamentos especializados. Isso a torna uma opção acessível e versátil para pessoas de diferentes níveis de condicionamento físico.
+
+7. **Promoção da Saúde Cardiovascular:** Exercícios de alta intensidade na calistenia, como burpees e sprints, ajudam a melhorar a saúde cardiovascular.
+
+8. **Prevenção de Lesões:** Ao desenvolver força funcional e flexibilidade, a calistenia pode ajudar a reduzir o risco de lesões, especialmente em atividades do dia a dia.
+
+9. **Desafio Mental e Foco:** A prática da calistenia exige concentração e foco, o que pode contribuir para o desenvolvimento de habilidades mentais.
+
+10. **Estímulo ao Autodomínio e Disciplina:** A progressão na calistenia muitas vezes requer paciência, consistência e determinação, promovendo autodomínio e disciplina.
+
+11. **Melhoria da Postura:** A calistenia fortalece os músculos essenciais para manter uma postura adequada, ajudando a prevenir dores nas costas e outros problemas relacionados.
+
+12. **Estímulo ao Crescimento Muscular Simétrico:** Como os exercícios de calistenia trabalham vários grupos musculares ao mesmo tempo, ajuda a promover um desenvolvimento muscular equilibrado.
+
+Lembre-se de que a chave para obter esses benefícios é a prática consistente e progressiva, além de realizar os exercícios com técnica adequada. É sempre aconselhável consultar um profissional de saúde antes de iniciar qualquer programa de exercícios, especialmente se houver preocupações com a saúde.</p>
+    </section>
+
+    <section id="movimentos">
+        <h2>Principais Movimentos de Calistenia</h2>
+        <ul>
+            <li>Flexão de Braço</li>
+            <li>Barras Paralelas</li>
+            <li>Handstand</li>
+            <li>Pull-up</li>
+            <li>Pistol Squat</li>
+            <li>Planche</li>
+        </ul>
+    </section>
+
+    <section id="rotina-iniciante">
+        <h2>Rotina para Iniciantes</h2>
+        <p>Uma rotina de calistenia para iniciantes deve focar em movimentos fundamentais e construir uma base sólida de força e coordenação. Aqui está uma rotina simples para começar:
+
+**Aquecimento (5-10 minutos):**
+- Corrida leve ou pular corda para elevar a frequência cardíaca.
+- Alongamentos dinâmicos para preparar os músculos.
+
+**Exercícios:**
+
+1. **Flexões (Push-Ups):**
+   - 3 séries de 8-10 repetições.
+   - Se necessário, comece com flexões de joelhos e progrida para as flexões tradicionais.
+
+2. **Agachamentos (Squats):**
+   - 3 séries de 10-12 repetições.
+   - Mantenha os pés na largura dos ombros e desça até os joelhos formarem um ângulo de 90 graus.
+
+3. **Prancha Frontal (Front Plank):**
+   - 3 séries de 20-30 segundos.
+   - Mantenha o corpo reto, apoiado nos antebraços e nos dedos dos pés.
+
+4. **Barras Fixas (Pull-Ups):**
+   - Se disponível. Comece com assistência se não conseguir fazer uma completa.
+   - 3 séries de quantas repetições conseguir.
+
+5. **Exercício para Core:**
+   - Por exemplo, "Mountain Climbers" ou "Leg Raises".
+   - 3 séries de 10-12 repetições para cada lado (Mountain Climbers) ou de 8-10 repetições (Leg Raises).
+
+**Alongamento e Resfriamento (5-10 minutos):**
+- Alongamentos estáticos para os principais grupos musculares trabalhados.
+
+**Dicas Importantes:**
+
+- Mantenha uma boa forma em todos os exercícios para evitar lesões.
+- Não force os movimentos. Se sentir desconforto ou dor, pare e ajuste a técnica.
+- Escute seu corpo e respeite seus limites. A progressão virá com o tempo e a prática consistente.
+
+</p>
+    </section>
+
+    <section id="alimentacao">
+        <h2>Uma alimentação equilibrada é crucial para quem pratica calistenia, pois fornece os nutrientes necessários para suportar o treino, a recuperação e o crescimento muscular. Aqui estão algumas diretrizes gerais para uma dieta saudável voltada para praticantes de calistenia:
+<ul>
+</h2>
+<ul>
+    
+    <section id="contato">
+        <h2>Fale Conosco no whatsapp (81)9-81161143</h2>
+        <p>Tem alguma dúvida ou sugestão? Entre em contato conosco através do formulário abaixo ou envie um e-mail para contato@itachilcmaker@gmail.com.</p>
+        <form>
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome"><br>
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email"><br>
+            <input type="submit" value="Enviar">
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Street Tigers - Desbravando Limites</p>
+    </footer>
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simulador de Treino de Calistenia</title>
+    <style>
+        body {
+            background-image: url('https://source.unsplash.com/1920x1080/?calisthenics');
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        }
+        .container {
+            text-align: center;
+            margin-top: 50px;
+        }
+        .count {
+            font-size: 48px;
+            margin-bottom: 20px;
+        }
+        button {
+            font-size: 24px;
+            padding: 10px 20px;
+            margin: 10px;
+        }
+        input {
+            font-size: 18px;
+            padding: 5px 10px;
+        }
+        .exercise-icons {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .exercise-icons img {
+            width: 100px;
+            margin: 0 10px;
+            cursor: pointer;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+        .exercise-icons img:hover {
+            transform: scale(1.1);
+        }
+        .reward {
+            font-size: 24px;
+            color: #ffeb3b;
+            margin-top: 20px;
+        }
+        .progressions-button {
+            background-color: #ff5722;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            font-size: 24px;
+            margin: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .progressions-button:hover {
+            background-color: #f44336;
+        }
+        .progressions-list {
+            text-align: left;
+            margin-top: 30px;
+            color: #000;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Simulador de Treino de Calistenia</h1>
+    <div class="count" id="counter">0</div>
+    <button onclick="doExercise('flexoes')">Fazer Flexão</button>
+    <button onclick="doExercise('abdominais')">Fazer Abdominal</button>
+    <button onclick="doExercise('agachamentos')">Fazer Agachamento</button>
+    <button class="progressions-button" onclick="showProgressions()">Progressões</button>
+    <button onclick="resetCounter()">Resetar</button>
+    <div>
+        <label for="exerciseDuration">Duração do Exercício (s):</label>
+        <input type="number" id="exerciseDuration" value="60">
+    </div>
+    <div id="timer"></div>
+    <div class="exercise-icons">
+        <img src="https://img.icons8.com/pastel-glyph/64/000000/push-ups.png" onclick="changeExercise('flexoes')">
+        <img src="https://img.icons8.com/pastel-glyph/64/000000/sit-ups.png" onclick="changeExercise('abdominais')">
+        <img src="https://img.icons8.com/pastel-glyph/64/000000/squat.png" onclick="changeExercise('agachamentos')">
+    </div>
+    <div class="reward" id="reward"></div>
+    <div id="progressions" style="display:none;">
+        <h2>Progressões Avançadas</h2>
+        <div class="progressions-list" id="progressions-list"></div>
+    </div>
+</div>
+
+<script>
+    let count = 0;
+    let timer;
+    let timeLeft = parseInt(document.getElementById("exerciseDuration").value);
+    let currentExercise = 'flexoes';
+
+    function doExercise(type) {
+        if (type === currentExercise) {
+            count++;
+            document.getElementById("counter").textContent = count;
+            if (count % 10 === 0) {
+                document.getElementById("reward").textContent = "Ótimo trabalho! Você alcançou 10 " + type + "!";
+                setTimeout(function() {
+                    document.getElementById("reward").textContent = "";
+                }, 3000);
+            }
+        } else {
+            alert("Você está fazendo o exercício errado! Concentre-se em " + currentExercise + "!");
+        }
+    }
+
+    function startTimer() {
+        timer = setInterval(function() {
+            if (timeLeft > 0) {
+                timeLeft--;
+                document.getElementById("timer").textContent = "Tempo restante: " + timeLeft + "s";
+            } else {
+                clearInterval(timer);
+                alert("Tempo esgotado! Você fez " + count + " exercícios!");
+            }
+        }, 1000);
+    }
+
+    function resetCounter() {
+        count = 0;
+        document.getElementById("counter").textContent = count;
+        document.getElementById("reward").textContent = "";
+    }
+
+    function updateDuration() {
+        timeLeft = parseInt(document.getElementById("exerciseDuration").value);
+        document.getElementById("timer").textContent = "Tempo restante: " +
+        
